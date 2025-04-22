@@ -5,10 +5,10 @@
 
 ## 💡 Немного обо мне
 - 🔭 Я начинающий Python-разработчик. Люблю бэкенд, инфраструктуру и простоту в коде.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 На данный момент Я продолжаю развиваться и изучать Python, его библиотеки, а также изучаю фреймворк FastAPI.
+- 📫 Связаться со мной через: ![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/sonares23)
+- 😄 Люблю чистый код, понятные архитектуры, интересные проекты и API интеграцию.
+- ⚡ Бум факт: I know English at the B2 level, and also recently started learning Spanish.
 
 ---
 
@@ -17,9 +17,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
