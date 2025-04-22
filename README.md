@@ -1,6 +1,6 @@
 ## Привет! Меня зовут Сергей 👋
 
-## :calling: Контакты:
+## :calling: Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/sonares23) [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:serega232003@gmail.com)
 
@@ -28,3 +28,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📂 Проекты
+
+| Название | Описание | Стек |
+|----------|----------|------|
+| [go-url-shortener](https://github.com/sOnAres23/Habit_tracker_backend) | Сервис трекера полезных привычек | Python, PostgreSQL, Docker |
+| [todo-api](https://github.com/sOnAres23/mailing_list_service_project) | Cервис управления рассылками | Python, HTML, CSS |
+| [go-exercises](https://github.com/sOnAres23/Project_HH_vacancies) | Практика и мелкие задания | Python, API, pandas |
