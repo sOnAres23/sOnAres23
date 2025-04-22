@@ -35,6 +35,6 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [go-url-shortener](https://github.com/sOnAres23/Habit_tracker_backend) | Сервис трекера полезных привычек | Python, PostgreSQL, Docker |
-| [todo-api](https://github.com/sOnAres23/mailing_list_service_project) | Cервис управления рассылками | Python, HTML, CSS |
-| [go-exercises](https://github.com/sOnAres23/Project_HH_vacancies) | Практика и мелкие задания | Python, API, pandas |
+| [Habit_tracker_backend](https://github.com/sOnAres23/Habit_tracker_backend) | Сервис трекера полезных привычек | <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white" alt="Python" title="Python"/> <img src="https://img.shields.io/badge/Django%20rest-yellow?logo=django&logoColor=white" alt="Django-rest" title="Django-rest"/> <img src="https://img.shields.io/badge/postgresql-yellow?logo=postgresql&logoColor=white" alt="postgresql" title="postgresql"/>  <img src="https://img.shields.io/badge/docker-yellow?logo=docker&logoColor=white" alt="docker" title="docker"/> |
+| [Mailing_list_service](https://github.com/sOnAres23/mailing_list_service_project) | Cервис управления рассылками | <img src="https://img.shields.io/badge/python-yellow?logo=python&logoColor=white" alt="Python" title="Python"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=HTML5&logoColor=white" alt="HTML5" title="HTML5"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=CSS3&logoColor=white" alt="CSS3" title="CSS3"/> |
+| [HH_API_vacancies](https://github.com/sOnAres23/Project_HH_vacancies) | Парсер вакансий с сайта hh.ru | Python, API, pandas, json, openpyxl |
